@@ -1,0 +1,32 @@
+2023-06-14 23:06:985 INFO  HomePage :23 - Click on Bingo tab in 
+2023-06-14 23:06:558 INFO  HomePage :23 - Click on Bingo tab in 
+2023-06-14 23:06:702 INFO  HomePage :34 - Click on Bingo tab in 
+2023-06-14 23:06:99 INFO  HomePage :34 - Click on Bingo tab in 
+2023-06-14 23:06:150 INFO  HomePage :38 - Click on Bingo tab in 
+2023-06-14 23:06:735 INFO  HomePage :43 - Click on Bingo tab in 
+2023-06-14 23:06:738 INFO  HomePage :38 - Click on Bingo tab in 
+2023-06-14 23:06:622 INFO  HomePage :43 - Click on Bingo tab in 
+2023-06-14 23:06:993 INFO  HomePage :38 - Click on Bingo tab in 
+2023-06-14 23:06:857 INFO  HomePage :43 - Click on Bingo tab in 
+2023-06-15 00:06:879 INFO  HomePage :38 - Click on Bingo tab in 
+2023-06-15 00:06:807 INFO  HomePage :43 - Click on Bingo tab in 
+2023-06-15 00:06:556 INFO  HomePage :38 - Click on Bingo tab in 
+2023-06-15 00:06:768 INFO  HomePage :43 - Click on Bingo tab in 
+2023-06-15 00:06:319 INFO  HomePage :38 - Click on Bingo tab in 
+2023-06-15 00:06:936 INFO  HomePage :43 - Click on Bingo tab in 
+2023-06-16 23:06:764 INFO  HomePage :38 - Click on Bingo tab in 
+2023-06-16 23:06:559 INFO  HomePage :43 - Click on Bingo tab in 
+2023-06-17 14:06:832 INFO  HomePage :38 - Click on Bingo tab in TopMenu
+2023-06-17 14:06:449 INFO  HomePage :25 - Get Bingo Page Title
+2023-06-17 14:06:181 INFO  HomePage :43 - Click on Slot tab in TopMenu 
+2023-06-17 14:06:787 INFO  HomePage :33 - Get Slot Page Title
+2023-06-17 14:06:935 INFO  HomePage :39 - Get All slot name And click on [[ChromeDriver: chrome on WINDOWS (dcf4782531199319f010bbc123a65d16)] -> xpath: (//a[@aria-label='Gold Blitz'])[1]]
+2023-06-17 14:06:392 INFO  HomePage :24 - Get Gold Blitz Page Title
+2023-06-17 14:06:417 INFO  HomePage :38 - Click on Bingo tab in TopMenu
+2023-06-17 14:06:997 INFO  HomePage :25 - Get Bingo Page Title
+2023-06-17 14:06:436 INFO  HomePage :43 - Click on Slot tab in TopMenu 
+2023-06-17 14:06:906 INFO  HomePage :33 - Get Slot Page Title
+2023-06-17 14:06:957 INFO  HomePage :39 - Get All slot name And click on [[ChromeDriver: chrome on WINDOWS (1e7fbc3f3da26ef151ef3930838e8a97)] -> xpath: (//a[@aria-label='Gold Blitz'])[1]]
+2023-06-17 14:06:521 INFO  HomePage :24 - Get Gold Blitz Page Title
+2023-06-21 10:06:743 INFO  HomePage :38 - Click on Bingo tab in TopMenu
+2023-06-21 10:06:358 INFO  HomePage :25 - Get Bingo Page Title
